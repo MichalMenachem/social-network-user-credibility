@@ -44,7 +44,7 @@ def main():
      4. The algorithm is run on the resulting graph, returning whether
         target is an acquaintance of source and if it exists, a path whose
         TSP is >= MSP and its TSP. We have implemented the algorithm twice,
-        once as described on the article and once using an optimization.
+        once as described in the article and once using an optimized version.
      5. We draw the new graph with its found path colored in blue.
     """
     get_graph_info()
